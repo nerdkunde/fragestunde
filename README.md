@@ -6,5 +6,17 @@ Dazu müssen wir natürlich wissen, was euch interessiert. Und genau an dieser S
 
 Ihr könnt einfach einen [neuen Issue anlegen](https://github.com/nerdkunde/fragestunde/issues/new). Schreibt eure Frage in den Titel und vielleicht (wenn ihr es für nötig haltet) eine kleine Erklärung in die Beschreibung. Wir werden diese Sachen dann in der Sendung aufgreifen und nach bestem Wissen & Gewissen beantworten.
 
+Achso, und hier ist Brian Griffin:
+```
+┊┊┊┊┊╭╭━╭━╮━┳━╮
+┊┊┊┊┊┃┣▅╋▅┫┈┈┈┃
+┊╭━━━┻┻━╯━╯┈┃┈┃
+◢▉◣┈┈┈┈┈┈┈┈┈╰┳╯
+▉▉▉┈┈┈┈┈┈┈┈┈┈┃┊
+◥▉◤┈┈┈┈┈┈┈┈┈┈┃┊
+┊╰━━━━┳━╮┈┈┈┈┃┊
+┊┊┊┊┊┊┣━━━━━━┫┊
+```
+
 Vielen Dank,
 eure Nerdkunde :)
