@@ -20,3 +20,14 @@ Achso, und hier ist Brian Griffin:
 
 Vielen Dank,
 eure Nerdkunde :)
+
+## Verwendung des Tools
+Das Tool lädt alle Issues aus dem Repository und zeigt sie nacheinander
+an ... Heureka
+```
+hub clone nerdkunde/fragestunde
+cd fragestunde
+bundle install
+./fragen.rb
+```
+
