@@ -53,7 +53,7 @@ class NerdkundeFrageStunde
       @handled_issues << current_issue.number
 
       puts "\n\n\n#{labels.join} #{current_issue.title.yellow}\r"
-      puts current_issue.body + "\r"
+      puts "#{current_issue.body}\r"
       puts
     else
       puts "#{"Keine weiteren Fragen".red}\r"
