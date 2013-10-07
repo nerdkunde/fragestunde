@@ -53,6 +53,7 @@ class NerdkundeFrageStunde
       @handled_issues << current_issue.number
 
       puts "\n\n\n#{labels.join} #{current_issue.title.yellow}\r"
+      puts "Von: #{current_issue.user.login}\r"
       puts "#{current_issue.body}\r"
       puts
     else
